@@ -15,6 +15,7 @@ e = G.AdicionarAresta(1, 5)
 
 #e.custo = 4
 
+
 """
 for V in G.V():
     for no in G.N(V, IterarSobreNo = True):

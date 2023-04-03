@@ -82,7 +82,7 @@ class GrafoMatrizAdj(Grafo):
 		self.M[u][v] = 1 
 		if not self.orientado:
 			self.M[v][u] = 1
-		self.m = self.m+1		
+		self.m = self.m+1
 			
 	def SaoAdj(self, u, v):
 		"""

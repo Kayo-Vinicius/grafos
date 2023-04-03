@@ -13,6 +13,7 @@
 
 from grafo import GrafoListaAdj
 
+
 def LerGrafosTeste():
 
 	for num in range(1,5):
